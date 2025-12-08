@@ -44,9 +44,9 @@ I'm a Senior Data Scientist with a passion for solving complex problems in fast-
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erfan7790&show_icons=true)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erfan7790&theme=darcula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan7790&layout=compact)
+
 
 ---
 

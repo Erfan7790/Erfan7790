@@ -42,14 +42,6 @@ I'm a Senior Data Scientist with a passion for solving complex problems in fast-
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erfan7790&theme=darcula)
-
-
-
----
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghasemi-erfan)

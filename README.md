@@ -7,7 +7,7 @@ I'm a Senior Data Scientist with a passion for solving complex problems in fast-
 ---
 
 ### 🔭 Currently Working On
-- Exploring **Cloud Computing** solutions for scalable ML deployments
+- Implementing **Cloud Computing** solutions for scalable ML deployments
 - Implementing **RAG (Retrieval-Augmented Generation)** systems
 - Building interactive dashboards with R Shiny and Markdown
 

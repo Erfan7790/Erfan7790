@@ -1,6 +1,6 @@
 # Hi there, I'm Erfan Ghasemi 👋
 
-## Senior Data Scientist | Canada 🇨🇦
+## Senior Data Scientist - Senior Biostatistician | Canada 🇨🇦
 
 I'm a Senior Data Scientist with a passion for solving complex problems in fast-paced environments. I specialize in machine learning, statistical modeling, and building predictive models that drive data-driven decision-making.
 
